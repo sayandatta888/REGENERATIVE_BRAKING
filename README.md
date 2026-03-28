@@ -160,38 +160,7 @@ ev-powertrain-simulation/
 
 ---
 
-## Getting Started
 
-### Option A — Google Colab (Recommended)
-
-1. Open [Google Colab](https://colab.research.google.com)
-2. Create a new notebook
-3. Paste the contents of `EV_Powertrain_Simulation.py` into a cell
-4. Click **Runtime → Run all**
-
-No additional installation needed. All dependencies (`numpy`, `matplotlib`, `scipy`) are pre-installed on Colab.
-
-### Option B — Local Python Environment
-
-**Requirements:**
-
-```bash
-Python >= 3.8
-numpy >= 1.21
-matplotlib >= 3.4
-scipy >= 1.7
-```
-
-**Install dependencies:**
-
-```bash
-pip install numpy matplotlib scipy
-```
-
-**Run the simulation:**
-
-```bash
-python EV_Powertrain_Simulation.py
 ```
 
 The simulation will:
